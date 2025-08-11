@@ -21,5 +21,5 @@ A simple responsive clone of the Amazon homepage built using HTML and CSS. This 
 - No server setup required—just open `index.html` in a browser.
 
 ## Installation
--Clone the repository.
+- Clone the repository.
 - No server setup required—just open `index.html` in a browser.
